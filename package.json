@@ -1,6 +1,6 @@
 {
   "name": "as-needed",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "micro library for operating on lazy collections",
   "repository": {
     "type": "git",
